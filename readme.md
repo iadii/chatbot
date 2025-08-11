@@ -53,7 +53,7 @@ pip install -r requirements.txt
 4️⃣ **Run the app**
 
 ```bash
-streamlit run app.py
+streamlit run chat.py
 ```
 
 ---
