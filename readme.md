@@ -1,6 +1,8 @@
 
 # 💬 Streamlit Chatbot
 
+test it live [here](https://iadii-chatbot-chat-h5ky1b.streamlit.app/)
+
 An interactive AI-powered chatbot built with **[Streamlit](https://streamlit.io/)** that allows you to chat with different AI models in a simple, browser-based interface.  
 No complex setup required — just run and start chatting! 🚀
 
