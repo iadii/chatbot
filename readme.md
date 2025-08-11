@@ -59,7 +59,7 @@ streamlit run app.py
 ## ⚙ Configuration
 
 If your chatbot uses API keys (e.g., Groq, OpenAI, etc.),
-create a `.env` file in the project root:
+create a `secrets.toml` file in the .streamlit folder:
 
 ```
 API_KEY=your_api_key_here
