@@ -1,8 +1,4 @@
-Here’s a clean and beginner-friendly `README.md` for your **Streamlit chatbot project** so you can post it on GitHub:
 
----
-
-```markdown
 # 💬 Streamlit Chatbot
 
 An interactive AI-powered chatbot built with **[Streamlit](https://streamlit.io/)** that allows you to chat with different AI models in a simple, browser-based interface.  
